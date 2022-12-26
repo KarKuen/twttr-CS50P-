@@ -1,2 +1,4 @@
-# twttr-CS50P-
-Removes vowels from text
+# twttr (CS50P)
+
+##### CS50P Week 2 Problem Set
+* Removes vowels from text
